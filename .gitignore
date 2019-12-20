@@ -1,0 +1,6 @@
+*.exe
+*.bsa
+out
+src
+**/__pycache__
+bsa copy.py
